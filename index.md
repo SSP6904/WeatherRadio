@@ -1,3 +1,8 @@
+---
+layout: home
+title: "Home Page"
+---
+
 # Weather Radio Streaming
 
 Our server has a way to stream NOAA Weather Radio, along with WeatherRadio Canada, on our site with GitHub Pages!
